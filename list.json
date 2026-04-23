@@ -1,0 +1,9 @@
+{
+  "packages": {
+    "pakpak": {
+      "url": "https://github.com/Gandshack/pakpak.git",
+      "description": "A computercraft package manager",
+      "version": "0.0.1"
+    }
+  }
+}
