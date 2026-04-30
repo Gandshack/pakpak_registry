@@ -4,6 +4,11 @@
       "url": "https://github.com/Gandshack/pakpak.git",
       "description": "A computercraft package manager",
       "version": "0.0.1"
+    },
+    "chesty": {
+      "url": "https://github.com/Gandshack/chesty.git",
+      "description": "An Inventory Management System for CC: Tweaked",
+      "version": "0.0.1"
     }
   }
 }
