@@ -1,5 +1,10 @@
 {
   "packages": {
+    "chesty": {
+      "url": "https://github.com/Gandshack/chesty.git",
+      "description": "An Inventory Management System for CC: Tweaked",
+      "version": "0.0.1"
+    },
     "stable_flight": {
       "url": "git@github.com:Gandshack/stable_flight.git",
       "description": "flight stablizer program",
@@ -8,11 +13,6 @@
     "pakpak": {
       "url": "https://github.com/Gandshack/pakpak.git",
       "description": "A computercraft package manager",
-      "version": "0.0.1"
-    },
-    "chesty": {
-      "url": "https://github.com/Gandshack/chesty.git",
-      "description": "An Inventory Management System for CC: Tweaked",
       "version": "0.0.1"
     }
   }
